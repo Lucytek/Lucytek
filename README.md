@@ -17,8 +17,8 @@
 
 | Progetto | Descrizione | Stato | Periodo |
 |---|---|---|---|
-| App costi | Applicazione per tenere traccia dei costi | 🟢 | nov 2026 → |
-| Bot Discord immagini | Bot per Discord dedicato alle immagini | 🟢 | nov 2026 → |
+| [**Cacciaprezzi**](https://github.com/Lucytek/cacciaprezzi) | Confronto prezzi tra negozi online, con storico e avvisi sul telefono | 🟢 | nov 2026 → |
+| **HellBot** 🔒 | Bot Discord che riconosce e smista immagini con l'AI (privato) | 🟢 | nov 2026 → |
 
 ---
 
