@@ -19,7 +19,7 @@
 |---|---|---|---|
 | [**Cacciaprezzi**](https://github.com/Lucytek/cacciaprezzi) | Confronto prezzi tra negozi online, con storico e avvisi sul telefono | 🟢 | nov 2026 → |
 | **HellBot** 🔒 | Bot Discord che riconosce e smista immagini con l'AI (privato) | 🟢 | nov 2026 → |
-| **Pride Ring Calendar** 🔒 | Bot Discord con il calendario dei giorni e orari più attivi della community (privato) | ✅ | ott 2026 |
+| **Community Discord Server Calendar** 🔒 | Bot Discord con il calendario dei giorni e orari più attivi della community (privato) | ✅ | ott 2026 |
 
 ---
 
