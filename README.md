@@ -19,7 +19,7 @@
 |---|---|---|---|
 | **YourAnalyticTube** | Analizza il tuo canale YT e ti consiglia le migliori strategie e video da portare per aumentare l'engagement della tua community. | 🔵 | 2026-2027 |
 | **Tracking prezzi giochi per Instant gaming (only for Stream Deck)** | Tracking dei prezzi per i tuoi giochi preferiti su Instant Gaming direttamente dal tuo Stream Deck. | 🔵 | 2026 |
-| **Tracking Deliveroo APP (only for Stream Deck)** | Segui il tuo ordine direttamente dal tuo Stream Deck, aggiornamenti in tempo reale come da telefono. | 🔵 | 2026 |
+| [**Tracking Deliveroo APP**](https://github.com/Lucytek/streamdeck-deliveroo) (only for Stream Deck) | Segui il tuo ordine direttamente dal tuo Stream Deck, aggiornamenti in tempo reale come da telefono. | ✅ | 2026 |
 | [**Cacciaprezzi**](https://github.com/Lucytek/cacciaprezzi) | Confronto prezzi tra negozi online, con storico e avvisi sul telefono | 🟢 | nov 2026 → |
 | **HellBot** 🔒 | Bot Discord che riconosce e smista immagini con l'AI (privato) | 🟢 | nov 2026 → |
 | **Community Discord Server Calendar** 🔒 | Bot Discord con il calendario dei giorni e orari più attivi della community (privato) | ✅ | ott 2026 |
